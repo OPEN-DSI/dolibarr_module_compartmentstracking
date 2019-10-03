@@ -1,0 +1,30 @@
+# Dolibarr language file - en_US - compartmentstracking
+CHARSET=UTF-8
+Module500100Name=Compartments Tracking
+Module500100Desc=Add compartments to your Warehouse: Columns, Shelves and Drawers. Track products location and stock: add or remove to / from (preferred) Drawer: product stock Correction / Transfer, & order Dispatch or Reception.
+
+############################################################
+### Admin setup
+############################################################
+CompartmentsTrackingSetup = Configuration of the module "Compartments Tracking"
+
+############################################################
+### Entrepot Tab
+############################################################
+CompartmentsTrackingCompartmentsTotal = Compartments Total
+CompartmentsTrackingCompartment = Compartment
+Compartments = Compartments
+CompartmentsTrackingColumns = Columns
+CompartmentsTrackingShelves = Shelves
+CompartmentsTrackingDrawers = Drawers
+CompartmentsTrackingColumn = Column
+CompartmentsTrackingShelf = Shelf
+CompartmentsTrackingDrawer = Drawer
+CompartmentsTrackingSeparator = Compartment reference Separator
+CompartmentsTrackingIsAlpha = Alphabetic Notation
+CompartmentsTrackingNeutralize = Neutralize
+CompartmentsTrackingNeutralized = Neutralized
+CompartmentsTrackingPreferred = Preferred
+CompartmentsTrackingSetPreferred = Set Preferred
+CompartmentsTrackingPreferredCompartments = Preferred Compartments
+CompartmentsTrackingTierDeleteError = Cannot delete %s. %s has compartments containing products.

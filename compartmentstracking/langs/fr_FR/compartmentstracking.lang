@@ -1,0 +1,30 @@
+# Dolibarr language file - fr_FR - compartmentstracking
+CHARSET=UTF-8
+Module500100Name=Gestion des Compartiments
+Module500100Desc=Ajoutez des Compartiments à vos Entrepôts: Colonnes, Étagères et Tiroirs. Gérez les emplacements des produits et leur stock: ajouter ou retirer du tiroir (préféré): Correction / Transfert de stock produit & Réception ou Ventilation de commande.
+
+############################################################
+### Admin setup
+############################################################
+CompartmentsTrackingSetup = Configuration du module "Gestion des Compartiments"
+
+############################################################
+### Entrepot Tab
+############################################################
+CompartmentsTrackingCompartmentsTotal = Total des Compartiments
+CompartmentsTrackingCompartment = Compartiment
+Compartments = Compartiments
+CompartmentsTrackingColumns = Colonnes
+CompartmentsTrackingShelves = Étagères
+CompartmentsTrackingDrawers = Tiroirs
+CompartmentsTrackingColumn = Colonne
+CompartmentsTrackingShelf = Étagère
+CompartmentsTrackingDrawer = Tiroir
+CompartmentsTrackingSeparator = Séparateur référence Compartiment
+CompartmentsTrackingIsAlpha = Notation Alphabétique
+CompartmentsTrackingNeutralize = Neutraliser
+CompartmentsTrackingNeutralized = Neutralisé
+CompartmentsTrackingPreferred = Préféré
+CompartmentsTrackingSetPreferred = Définir Préférés
+CompartmentsTrackingPreferredCompartments = Compartiments Préférés
+CompartmentsTrackingTierDeleteError = %s ne peut être supprimé(e). %s a des compartiments contenant des produits.
