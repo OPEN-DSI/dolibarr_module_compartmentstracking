@@ -1,0 +1,21 @@
+{
+  "name": "open-dsi/compartments",
+  "description": "Dolibarr module for Compartments tracking. Add compartments to your Warehouse: Columns, Shelves and Drawers.",
+  "type": "dolibarr-module",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Open-DSI",
+      "email": "support@open-dsi.fr",
+      "homepage": "https://www.open-dsi.fr"
+    }
+  ],
+  "support": {
+    "email": "support@open-dsi.fr",
+    "issues": "https://github.com/OPEN-DSI/dolibarr_module_compartments/issues",
+    "source": "https://github.com/OPEN-DSI/dolibarr_module_compartments"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
