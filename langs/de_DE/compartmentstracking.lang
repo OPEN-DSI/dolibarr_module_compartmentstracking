@@ -1,0 +1,30 @@
+# Dolibarr language file - de_DE - compartmentstracking
+CHARSET=UTF-8
+Module500100Name=Compartments Tracking
+Module500100Desc=Fügen Sie Ihrem Lager Fächer hinzu: Reihen, Regale und Schubladen. Verfolgen Sie die Position und den Bestand der Produkte: Hinzufügen oder Entfernen in / aus der (bevorzugten) Schublade: Warenbestand Korrektur / Übertragung & Bestellung Versand oder Empfang.
+
+############################################################
+### Admin-Setup
+############################################################
+CompartmentsTrackingSetup=Konfiguration des Moduls "Compartments Tracking"
+
+############################################################
+### Entrepot Tab
+############################################################
+CompartmentsTrackingCompartmentsTotal=Fächer Total
+CompartmentsTrackingCompartment=Fach
+Compartments=Fächer
+CompartmentsTrackingColumns=Reihen
+CompartmentsTrackingShelves=Regale
+CompartmentsTrackingDrawers=Schubladen
+CompartmentsTrackingColumn=reihe
+CompartmentsTrackingShelf=Regal
+CompartmentsTrackingDrawer=Schublade
+CompartmentsTrackingSeparator=Fachreferenz Trennzeichen
+CompartmentsTrackingIsAlpha=Alphabetische Darstellung
+CompartmentsTrackingNeutralize=Neutralisieren
+CompartmentsTrackingNeutralized=Neutralisiert
+CompartmentsTrackingPreferred=Bevorzugt
+CompartmentsTrackingSetPreferred=Bevorzugt setzen
+CompartmentsTrackingPreferredCompartments=Bevorzugte Fächer
+CompartmentsTrackingTierDeleteError=Kann %s nicht löschen. %s hat Fächer, die Produkte enthalten.
