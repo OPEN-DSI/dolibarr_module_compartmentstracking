@@ -1,0 +1,5 @@
+# Dolibarr language file - de_DE - opendsi
+CHARSET=UTF-8
+OpenDsiFamily=Open-DSI
+OpenDsiAboutDesc=Dieses Modul wurde von <a href="http://www.open-dsi.fr" target="_blank">Open-DSI</a> entwickelt<br>Sie finden die Dokumentation in unserem <a href="http://wiki.open-dsi.fr/index.php/Accueil" target="_blank">Wiki</a><br><br><br>Für Fragen oder Feedback kontaktieren Sie uns bitte unter <a href="mailto:support@open-dsi.fr">support@open-dsi.fr</a><br><br><br>Für andere Frage kontaktieren Sie uns unter <a href="mailto:contact@open-dsi.fr">contact@open-dsi.fr</a> oder unter +33 4 82 53 94 76<br><br><br><br>Sie finden unsere anderen Module im <a href="http://www.dolistore.com/search.php?orderby=position&orderway=desc&search_query=open-dsi&submit_search=Rechercher" target="_blank">Dolistore</a>.
+OpenDsiChangeLog=Versionsverlauf
